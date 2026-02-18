@@ -12,3 +12,4 @@ C:\Users\nicol\Documents\estudiandin\cSharp\project1\obj\Debug\net10.0\refint\pr
 C:\Users\nicol\Documents\estudiandin\cSharp\project1\obj\Debug\net10.0\project1.pdb
 C:\Users\nicol\Documents\estudiandin\cSharp\project1\obj\Debug\net10.0\project1.genruntimeconfig.cache
 C:\Users\nicol\Documents\estudiandin\cSharp\project1\obj\Debug\net10.0\ref\project1.dll
+C:\Users\nicol\Documents\estudiandin\cSharp\project1\obj\Debug\net10.0\project1.sourcelink.json
